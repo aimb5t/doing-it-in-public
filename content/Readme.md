@@ -1,11 +1,20 @@
 ---
 title: Readme
-draft: 
-tags: 
+draft: false
+tags:
 excalidraw-plugin: parsed
 excalidraw-open-md: true
-created: 2025-04-12
+created: <% tp.date.now("YYYY-MM-DD") %>
+last-modified: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
+aliases:
+description:
+enableToc: false
+enableLocalGraph: true
+enableBacklinks: true
+"Parent:":
+"Children:":
 ---
+
 # [[Readme]]
 
 ![[Readme.svg]]
