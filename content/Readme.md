@@ -10,6 +10,23 @@ created: 2025-04-12
 
 ![[Readme.svg]]
 
+## Organizational Structure
+
+This vault follows a three-stage knowledge management workflow: capture raw materials, organize them into structured knowledge, then produce finished content.
+
+**Flow:**
+Raw Materials  → Organized Knowledge → Finished Products
+
+| **Folder**      | **Content Description**                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------ |
+| Assets          | Default location for screenshots and similar objects                                                   |
+| Knowledge Bases | Structured knowledge collections, MOCs (Maps of Content), and topic indexes                            |
+| Meta            | Vault operating systems, structures, tools, definitions, and standards                                 |
+| Readwise        | Sync location for readwise Obsidian export settings                                                    |
+| References      | Raw reference materials, clippings, and imported content awaiting processing                           |
+| Writing         | Final drafts, published content, and polished writing pieces                                           |
+| No Folder       | Staging area for rough notes and documentation not yet categorized as reference material or final work |
+
 
 %%
 # Text Elements
