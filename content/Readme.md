@@ -4,8 +4,8 @@ draft: false
 tags:
 excalidraw-plugin: parsed
 excalidraw-open-md: true
-created: <% tp.date.now("YYYY-MM-DD") %>
-last-modified: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
+created: 2025-09-03
+last-modified:
 aliases:
 description:
 enableToc: false

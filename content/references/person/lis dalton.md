@@ -1,6 +1,6 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD") %>
-last-modified: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
+created: 2025-09-03
+last-modified: 2025-09-03 18:53:40
 aliases:
 tags:
   - person
