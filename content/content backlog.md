@@ -4,7 +4,7 @@ last-modified: 2025-09-03 18:02:50
 aliases:
 tags:
 description:
-draft: false
+draft: true
 enableToc: false
 enableLocalGraph: true
 enableBacklinks: true
