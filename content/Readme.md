@@ -17,7 +17,6 @@ enableBacklinks: true
 
 # [[Readme]]
 
-![[Readme.svg]]
 
 ## Organizational Structure
 
