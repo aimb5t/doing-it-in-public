@@ -40,6 +40,11 @@ Details on how to use and format tags in Obsidian [here](https://help.obsidian.m
 	- poc - proof of concept
 	- program
 - tools - notes about specific features/updates for a given tool
+	- vercel
+	- github
+	- cursor
+	- are.na
+	- google_workspace
 	- obsidian
 		- plugin
 			- templater
@@ -48,12 +53,17 @@ Details on how to use and format tags in Obsidian [here](https://help.obsidian.m
 - language
 	- python
 	- markdown
-	- css
-	- html
+	- html/css
+	- git
+	- 
 - learning
+	- in_public
+	- 
 - media
 - ventures
 - web3_crypto
+- wine
+	- notes
 
 ---
 
@@ -71,11 +81,15 @@ Details on how to use and format tags in Obsidian [here](https://help.obsidian.m
 	- reference_source
 - principles
 - person
+- system
+- guide
+- case_study
 
 ---
 
 ### Status Tags
 
 - status/tbs - to be synthesized
+- status/wip
 - priority/high
 - priority/low

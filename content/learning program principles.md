@@ -14,9 +14,9 @@ enableBacklinks: true
 "Children:":
 ---
 
-# [[practice learning program principles]]
+# [[learning program principles]]
 
-***Context:** remote, time-constrained professional environment*
+***Context 1:** remote, time-constrained professional environment*
 
 - most people will prioritize project work over learning
 	- learning will need to be delivered within this constraint > that means recorded sessions on leadership-defined priority topics, recorded and centralized for on-demand viewing
